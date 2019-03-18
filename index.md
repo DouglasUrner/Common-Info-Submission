@@ -21,6 +21,7 @@ Both are fairly simple processes but it is important to read the instructions on
 1. Following the instructions in the left-hand column of the document, complete the template:
    - When including links type a space after pasting the link into the template - this makes the link active (clickable).
    - If you are asked for a link to a Game Lab or App Lab project or to a Code.org assignment be sure that you use the **Share** button - otherwise the link will not let me see your work and you will need to resubmit.
+   - If you need a refresher on making screen captures - [look here](https://douglasurner.github.io/Common-Info-Screen-Captures/) - as usual, right-click to open in a new tab.
 1. Submit your completed template by:
    - Clicking on the blue **Submit** button in Canvas.
    - In the resulting document picker, choose the **Google Docs** tab.
